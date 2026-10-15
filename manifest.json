@@ -1,0 +1,9 @@
+{
+  "id": "life-study-dashboard",
+  "name": "Life & Study Dashboard",
+  "version": "0.4.2",
+  "minAppVersion": "1.4.0",
+  "description": "Three-column dashboard: today's tasks from weekly plans, deadline calendar, Pomodoro logging, plus stats and a study heatmap. Markdown is the source of truth.",
+  "author": "You",
+  "isDesktopOnly": false
+}
